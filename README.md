@@ -20,6 +20,6 @@ The agent achieved stable results around 100 reward points after approximately 8
 indicating successful learning of stable driving behavior.
 
 ### Reward interpretation
-- 0 → Stable driving; the agent completes the track without leaving the road or spinning.
-- > 0 → Good driving performance.
-- < 0 → Unstable or random behavior.
+- `0` → Stable driving; the agent completes the track without leaving the road or spinning.
+- `> 0` → Good driving performance.
+- `< 0` → Unstable or random behavior.
