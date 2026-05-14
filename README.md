@@ -1,13 +1,15 @@
 # CarRacing CNN Agent
 
 Reinforcement Learning project using PyTorch and Gymnasium.
+The agent learns autonomous driving using CNN and Cross-Entropy Method.
 
-## Technologies
+# Technologies
 - Python
 - PyTorch
-- OpenCV
 - Gymnasium
+- OpenCV
+- NumPy
 
-## Run
+# Run
 pip install -r requirements.txt
 python main.py
